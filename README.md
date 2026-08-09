@@ -87,4 +87,4 @@ Where:
 ## 📬 Contact & Author
 **Prajwal Sadashiv Jinde**  
 *Aerospace & CFD Research Project*  
-📧 Email: prajwal.aerocfd@gmail.com
+📧 Email: prajwal.aero.eng@gmail.com
