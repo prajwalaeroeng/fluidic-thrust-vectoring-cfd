@@ -41,7 +41,7 @@ By eliminating traditional mechanical gimbals and heavy actuators, fluidic thrus
 ---
 
 ## 🔬 Physics & Flow Analysis
-'''text
+```text
 [ Primary Supersonic Stream ]
                               |
                               v
@@ -53,6 +53,7 @@ By eliminating traditional mechanical gimbals and heavy actuators, fluidic thrus
                   Secondary    |  \
                   Injection --> \  \=== (Deflected Exhaust Plume)
                   Port (15°)    \
+```
 ### Key Physical Phenomena Observed:
 1. **Oblique Bow Shock Formation:** The $15^\circ$ secondary jet acts as a physical barrier to the supersonic primary flow, inducing an oblique shock wave upstream of the injection port[cite: 1].
 2. **Upstream Separation Bubble:** Flow stagnation upstream of the port elevates local static pressure and creates a distinct recirculation region.
