@@ -41,6 +41,7 @@ By eliminating traditional mechanical gimbals and heavy actuators, fluidic thrus
 ---
 
 ## 🔬 Physics & Flow Analysis
+'''text
 [ Primary Supersonic Stream ]
                               |
                               v
